@@ -39,6 +39,11 @@ h2 {
   margin-top: .5em;
 }
 
+.one {
+  padding: 8px;
+  background: rgba(255,255,255,.85);
+}
+
 h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
@@ -53,6 +58,11 @@ img {
 
 p {
   font-size: 1em;
+}
+
+.two {
+  padding: 10px;
+  background: rgba(255,255,255,.85);
 }
 
 a {
